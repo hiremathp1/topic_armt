@@ -1,0 +1,32 @@
+Topic modeling is a type of statistical modeling for discovering the abstract “topics” in a collection of documents. LDA (Latent Dirichlet Allocation) is one of the most popular and widely used tools for that. However, I am going to demonstrate an alternative tool BigARTM which provides a huge number of opportunities (e.g. special metrics and regularizers) for topic modeling.
+
+First of all, let’s formulate our task. Initially, we have a distribution over words in documents, but we need to get topic-word distribution and topic-document distribution. So, it is just a task of stochastic matrix factorization.
+ will use NIPS papers to illustrate principles of the library.
+
+df = pd.read_csv(‘./papers.csv’)
+all_texts = df.PaperText
+all_texts[111]
+
+‘Differentially Private Subspace Clustering\n\nYining Wang, Yu-Xiang Wang and Aarti Singh\nMachine Learning Department…’
+
+We begin with data preproccesing with a pipeline:
+
+Now we are ready to tokenize the sentences, obtain a bag of words and perform topic modeling. By the way, n-grams are sometimes very useful for this purpose. They help to extract well-established expressions and understand each topic better. I decided to get only bigrams, however, you can choose any number. We’ll take ones that are the most frequent among the documents.
+
+
+Bigrams seem useful, it will help us to distinguish different topics. All preprocessing has been done so we can move to our model. To do this, we have to create a matrix with words over documents which the model uses as an input.
+
+ARTM library provides you with a huge functionality to affect the learning process. It allows adding various regularizers to control the learning process and to change phi and theta matrices to be more sparse, for example. In a top level model I added a sparsity regularizer for theta matrix and decorrelator which stimulates phi sparsity.
+
+Besides, we can specify metrics that we want to use for evaluation (Here there are Perxplexity and matrices sparstities). We add these regularizers to make topics more interpretable but we have to do that carefully with only a slight decrease of perplexity.
+
+The topics that we have got seem rather vague, although we can see differences between them. If we are interested in a particular topic, we might want to look at the subtopics of this one and to narrow down the search area. For such purposes, we can build a hierarchy of models that looks like a tree. We will use only one additional level with 50 topics
+
+
+We can choose documents on subtopics as we did it previously.
+
+Thanks for reading. I hope I introduced briefly the functionality of the library, but if you want to go into detail, there is documentation with lots of additional information and useful tricks (modalities, regularizers, input formats, etc.).
+
+Looking forward to hearing any questions.
+
+

@@ -1,0 +1,1033 @@
+{
+ "VideoID": "VID_3709423",
+ "Items": [
+  {
+   "end_time": 9,
+   "start_time": 0,
+   "text": "rational number in mathematics . A number system is a"
+  },
+  {
+   "end_time": 14,
+   "start_time": 6,
+   "text": "state of numbers together with one or more operations such"
+  },
+  {
+   "end_time": 23,
+   "start_time": 11,
+   "text": "as addition , all multiplication , et cetera . Examples"
+  },
+  {
+   "end_time": 27,
+   "start_time": 20,
+   "text": "of number systems include natural numbers , whole numbers ,"
+  },
+  {
+   "end_time": 32,
+   "start_time": 24,
+   "text": "integers , rational numbers , algebraic numbers , real numbers"
+  },
+  {
+   "end_time": 39,
+   "start_time": 29,
+   "text": ", complex numbers , etcetera . Before we do the"
+  },
+  {
+   "end_time": 43,
+   "start_time": 36,
+   "text": "examples from exercise . First look at the different examples"
+  },
+  {
+   "end_time": 54,
+   "start_time": 40,
+   "text": "of number system and their properties . Natural numbers Numbers"
+  },
+  {
+   "end_time": 56,
+   "start_time": 51,
+   "text": "such as 1 , 2 , 3 , 4 ,"
+  },
+  {
+   "end_time": 60,
+   "start_time": 53,
+   "text": "5 , 6 , etc are called natural numbers ."
+  },
+  {
+   "end_time": 68,
+   "start_time": 61,
+   "text": "Natural numbers start from one and there is no greatest"
+  },
+  {
+   "end_time": 77,
+   "start_time": 65,
+   "text": "natural number . That means if we write 1000 then"
+  },
+  {
+   "end_time": 80,
+   "start_time": 74,
+   "text": "it is a natural number . And if we write"
+  },
+  {
+   "end_time": 85,
+   "start_time": 77,
+   "text": "two crore 56 legs , 7600 , then it is"
+  },
+  {
+   "end_time": 89,
+   "start_time": 82,
+   "text": "also a natural number . So there is no limit"
+  },
+  {
+   "end_time": 98,
+   "start_time": 86,
+   "text": "of natural numbers . Remember that ? Although 10 34"
+  },
+  {
+   "end_time": 103,
+   "start_time": 95,
+   "text": "100 etcetera are natural numbers , but zero alone is"
+  },
+  {
+   "end_time": 110,
+   "start_time": 100,
+   "text": "not a natural number . Natural numbers are closed under"
+  },
+  {
+   "end_time": 115,
+   "start_time": 107,
+   "text": "addition . That means if we add two or 3"
+  },
+  {
+   "end_time": 119,
+   "start_time": 112,
+   "text": "natural numbers , then we get another natural number ."
+  },
+  {
+   "end_time": 123,
+   "start_time": 117,
+   "text": "For example , if we add four and 5 ,"
+  },
+  {
+   "end_time": 126,
+   "start_time": 120,
+   "text": "then we get nine , which is also a natural"
+  },
+  {
+   "end_time": 134,
+   "start_time": 123,
+   "text": "number . Similarly , if we add 9 , 11"
+  },
+  {
+   "end_time": 138,
+   "start_time": 131,
+   "text": "and 20 , then we get 40 , which is"
+  },
+  {
+   "end_time": 146,
+   "start_time": 135,
+   "text": "also a natural number . This property of natural number"
+  },
+  {
+   "end_time": 150,
+   "start_time": 143,
+   "text": "is called the closer property with respect to addition ."
+  },
+  {
+   "end_time": 159,
+   "start_time": 151,
+   "text": "Natural numbers are communicative . That means if two natural"
+  },
+  {
+   "end_time": 164,
+   "start_time": 156,
+   "text": "numbers add alternately , then we get same natural numbers"
+  },
+  {
+   "end_time": 170,
+   "start_time": 161,
+   "text": ". In both cases . For example , if we"
+  },
+  {
+   "end_time": 176,
+   "start_time": 167,
+   "text": "add five and 7 we get 12 alternately . If"
+  },
+  {
+   "end_time": 178,
+   "start_time": 173,
+   "text": "we had seven and five , then also we get"
+  },
+  {
+   "end_time": 184,
+   "start_time": 175,
+   "text": "12 , so we can write five plus seven equal"
+  },
+  {
+   "end_time": 191,
+   "start_time": 181,
+   "text": "to seven plus five . This property is known as"
+  },
+  {
+   "end_time": 199,
+   "start_time": 188,
+   "text": "communicative property with respect to addition . Natural numbers follow"
+  },
+  {
+   "end_time": 204,
+   "start_time": 196,
+   "text": "associative property . That means if we add three different"
+  },
+  {
+   "end_time": 208,
+   "start_time": 201,
+   "text": "natural numbers in different ways , then also we get"
+  },
+  {
+   "end_time": 216,
+   "start_time": 205,
+   "text": "the same natural number . Look at the example here"
+  },
+  {
+   "end_time": 219,
+   "start_time": 213,
+   "text": ", within record 2-plus 3 . Plus four is equal"
+  },
+  {
+   "end_time": 224,
+   "start_time": 216,
+   "text": "to nine . Other way within bracket three plus four"
+  },
+  {
+   "end_time": 228,
+   "start_time": 221,
+   "text": ". Plus two is equal to nine . So we"
+  },
+  {
+   "end_time": 231,
+   "start_time": 225,
+   "text": "can write within bracket two plus three . Plus four"
+  },
+  {
+   "end_time": 235,
+   "start_time": 228,
+   "text": "is equal to within bracket three plus four plus two"
+  },
+  {
+   "end_time": 243,
+   "start_time": 236,
+   "text": ". This property is called associative property of natural number"
+  },
+  {
+   "end_time": 251,
+   "start_time": 240,
+   "text": "with respect to addition . Natural numbers are not closed"
+  },
+  {
+   "end_time": 256,
+   "start_time": 248,
+   "text": "under subtraction . That means if we subtract one natural"
+  },
+  {
+   "end_time": 260,
+   "start_time": 253,
+   "text": "number from other natural number , then we always do"
+  },
+  {
+   "end_time": 267,
+   "start_time": 257,
+   "text": "not get natural number . For example , if we"
+  },
+  {
+   "end_time": 271,
+   "start_time": 264,
+   "text": "subtract five from nine , then we get four which"
+  },
+  {
+   "end_time": 276,
+   "start_time": 268,
+   "text": "is a natural number , But if we subtract nine"
+  },
+  {
+   "end_time": 280,
+   "start_time": 273,
+   "text": "from 5 we get -4 which is not a natural"
+  },
+  {
+   "end_time": 289,
+   "start_time": 277,
+   "text": "number . Similarly , natural numbers do not possess the"
+  },
+  {
+   "end_time": 298,
+   "start_time": 286,
+   "text": "communicative and associative properties with respect or subtraction natural numbers"
+  },
+  {
+   "end_time": 304,
+   "start_time": 295,
+   "text": ", pauses closer property , communicative property and associative property"
+  },
+  {
+   "end_time": 309,
+   "start_time": 301,
+   "text": "with respect to multiplication . Because by multiplying two natural"
+  },
+  {
+   "end_time": 314,
+   "start_time": 306,
+   "text": "numbers , we always get natural number . For example"
+  },
+  {
+   "end_time": 317,
+   "start_time": 311,
+   "text": "by multiplying two with 4 , we get eight ."
+  },
+  {
+   "end_time": 322,
+   "start_time": 315,
+   "text": "On the other hand by multiplying four with two ."
+  },
+  {
+   "end_time": 324,
+   "start_time": 319,
+   "text": "We get the same natural number . That is a"
+  },
+  {
+   "end_time": 332,
+   "start_time": 325,
+   "text": "If we multiply any natural number with one anyway ,"
+  },
+  {
+   "end_time": 336,
+   "start_time": 329,
+   "text": "we get the same natural number . For example ,"
+  },
+  {
+   "end_time": 339,
+   "start_time": 333,
+   "text": "if we multiply four with one or one with four"
+  },
+  {
+   "end_time": 347,
+   "start_time": 336,
+   "text": "we get four . This property is called identity property"
+  },
+  {
+   "end_time": 357,
+   "start_time": 345,
+   "text": "And one is called multiplication of identity . Natural numbers"
+  },
+  {
+   "end_time": 361,
+   "start_time": 354,
+   "text": "are not closed under division . That means if we"
+  },
+  {
+   "end_time": 364,
+   "start_time": 358,
+   "text": "divide one natural number with other than we always do"
+  },
+  {
+   "end_time": 371,
+   "start_time": 361,
+   "text": "not get natural numbers . for example if I divide"
+  },
+  {
+   "end_time": 376,
+   "start_time": 368,
+   "text": "nine x 3 then bigotry which is a natural number"
+  },
+  {
+   "end_time": 381,
+   "start_time": 374,
+   "text": ", But if I divide three x 9 then we"
+  },
+  {
+   "end_time": 388,
+   "start_time": 378,
+   "text": "do not get natural numbers . Similarly natural numbers do"
+  },
+  {
+   "end_time": 393,
+   "start_time": 385,
+   "text": "not pauses . The communicative and associative properties with respect"
+  },
+  {
+   "end_time": 403,
+   "start_time": 390,
+   "text": "to division hole number and their properties Including zero ."
+  },
+  {
+   "end_time": 411,
+   "start_time": 400,
+   "text": "All natural numbers are called whole numbers . Like natural"
+  },
+  {
+   "end_time": 415,
+   "start_time": 408,
+   "text": "numbers . The whole numbers also have the closer communicative"
+  },
+  {
+   "end_time": 422,
+   "start_time": 412,
+   "text": "and associative property with respect to addition and multiplication and"
+  },
+  {
+   "end_time": 426,
+   "start_time": 419,
+   "text": "do not pause is closer communicative and associative property with"
+  },
+  {
+   "end_time": 435,
+   "start_time": 423,
+   "text": "respect to subtraction and division individuals and their properties ."
+  },
+  {
+   "end_time": 440,
+   "start_time": 434,
+   "text": "The negative of the natural numbers zero and the natural"
+  },
+  {
+   "end_time": 448,
+   "start_time": 437,
+   "text": "numbers constitute integers . The negative of natural numbers is"
+  },
+  {
+   "end_time": 452,
+   "start_time": 445,
+   "text": "expressed by giving minus sign in front of the natural"
+  },
+  {
+   "end_time": 457,
+   "start_time": 449,
+   "text": "numbers . For example negative of five is -5 ."
+  },
+  {
+   "end_time": 463,
+   "start_time": 455,
+   "text": "Does the individuals are zero plus minus one plus minus"
+  },
+  {
+   "end_time": 467,
+   "start_time": 460,
+   "text": "to plus minus three plus minus four et cetera ."
+  },
+  {
+   "end_time": 474,
+   "start_time": 467,
+   "text": "The value of negative numbers are less than zero ."
+  },
+  {
+   "end_time": 481,
+   "start_time": 475,
+   "text": "So we can write minus three is less than minus"
+  },
+  {
+   "end_time": 484,
+   "start_time": 478,
+   "text": "two is less than minus one is less than zero"
+  },
+  {
+   "end_time": 492,
+   "start_time": 481,
+   "text": "is less than one etcetera , integers are also closed"
+  },
+  {
+   "end_time": 501,
+   "start_time": 489,
+   "text": "under addition and possesses communicative and associative property . Individuals"
+  },
+  {
+   "end_time": 507,
+   "start_time": 498,
+   "text": "are closed under subtraction because by subtracting any indigenous from"
+  },
+  {
+   "end_time": 516,
+   "start_time": 504,
+   "text": "other , we get other indigenous but individuals do not"
+  },
+  {
+   "end_time": 520,
+   "start_time": 513,
+   "text": "have communicative and associative property with respect or subtraction ."
+  },
+  {
+   "end_time": 533,
+   "start_time": 521,
+   "text": "Individuals are closed under multiplication . Individuals are not closed"
+  },
+  {
+   "end_time": 538,
+   "start_time": 530,
+   "text": "under division and do not have communicative and associative property"
+  },
+  {
+   "end_time": 546,
+   "start_time": 535,
+   "text": "with respect to division rational numbers and their properties ."
+  },
+  {
+   "end_time": 551,
+   "start_time": 546,
+   "text": "The number which can be written in the form of"
+  },
+  {
+   "end_time": 555,
+   "start_time": 548,
+   "text": "P by Q . Where P and Q . Are"
+  },
+  {
+   "end_time": 559,
+   "start_time": 552,
+   "text": "integers and Q . Is not equal to zero is"
+  },
+  {
+   "end_time": 567,
+   "start_time": 556,
+   "text": "called rational number . For example five x 7 -3"
+  },
+  {
+   "end_time": 579,
+   "start_time": 564,
+   "text": "x two etc closer property rational numbers are closed under"
+  },
+  {
+   "end_time": 584,
+   "start_time": 576,
+   "text": "addition Because if we add two rational numbers then the"
+  },
+  {
+   "end_time": 592,
+   "start_time": 581,
+   "text": "result is also original number . Rational numbers are closed"
+  },
+  {
+   "end_time": 598,
+   "start_time": 589,
+   "text": "under subtraction because if we subtract one rational number from"
+  },
+  {
+   "end_time": 601,
+   "start_time": 595,
+   "text": "the other , then we get another rational number ."
+  },
+  {
+   "end_time": 606,
+   "start_time": 599,
+   "text": "For example if we subtract four by five from five"
+  },
+  {
+   "end_time": 610,
+   "start_time": 603,
+   "text": "by eight then we get minus seven by 40 ."
+  },
+  {
+   "end_time": 617,
+   "start_time": 607,
+   "text": "Which is also a rational number . Rational numbers are"
+  },
+  {
+   "end_time": 622,
+   "start_time": 614,
+   "text": "closed under multiplication . That means if we multiply two"
+  },
+  {
+   "end_time": 626,
+   "start_time": 619,
+   "text": "rational numbers , then we will get another rational number"
+  },
+  {
+   "end_time": 630,
+   "start_time": 624,
+   "text": ". For example if we multiply two by five ,"
+  },
+  {
+   "end_time": 634,
+   "start_time": 627,
+   "text": "wait three by seven we will get six by 35"
+  },
+  {
+   "end_time": 643,
+   "start_time": 632,
+   "text": "which is also original number , rational numbers are not"
+  },
+  {
+   "end_time": 648,
+   "start_time": 640,
+   "text": "closed under division because although we get rational number on"
+  },
+  {
+   "end_time": 652,
+   "start_time": 645,
+   "text": "division of two rational numbers but any rational number divided"
+  },
+  {
+   "end_time": 657,
+   "start_time": 649,
+   "text": "by zero is not defined . So rational numbers are"
+  },
+  {
+   "end_time": 668,
+   "start_time": 654,
+   "text": "not closed under division . Community property addition is community"
+  },
+  {
+   "end_time": 672,
+   "start_time": 665,
+   "text": "for rational numbers . That means if we add two"
+  },
+  {
+   "end_time": 676,
+   "start_time": 669,
+   "text": "rational numbers by different way , then we will get"
+  },
+  {
+   "end_time": 679,
+   "start_time": 673,
+   "text": "the same results . For example , if we add"
+  },
+  {
+   "end_time": 683,
+   "start_time": 676,
+   "text": "two x 5 with five x 7 we get 39"
+  },
+  {
+   "end_time": 686,
+   "start_time": 680,
+   "text": "x 35 . On the other hand , if we"
+  },
+  {
+   "end_time": 689,
+   "start_time": 683,
+   "text": "add five by seven with two by five , then"
+  },
+  {
+   "end_time": 697,
+   "start_time": 686,
+   "text": "also we will get 39 by 35 . Subtraction is"
+  },
+  {
+   "end_time": 703,
+   "start_time": 694,
+   "text": "not community for rational numbers . For example , if"
+  },
+  {
+   "end_time": 707,
+   "start_time": 700,
+   "text": "we subtract five by seven from two by five and"
+  },
+  {
+   "end_time": 710,
+   "start_time": 704,
+   "text": "again subtract two by five from five by seven ,"
+  },
+  {
+   "end_time": 718,
+   "start_time": 707,
+   "text": "the result will be different . So rational numbers do"
+  },
+  {
+   "end_time": 727,
+   "start_time": 715,
+   "text": "not pauses communicative property for subtraction , multiplication is community"
+  },
+  {
+   "end_time": 735,
+   "start_time": 724,
+   "text": "for rational number because if we multiply two rational numbers"
+  },
+  {
+   "end_time": 738,
+   "start_time": 732,
+   "text": "by different ways , then we will get the same"
+  },
+  {
+   "end_time": 742,
+   "start_time": 735,
+   "text": "result . For example , to buy three into 4"
+  },
+  {
+   "end_time": 747,
+   "start_time": 739,
+   "text": "x seven is equal to eight x 21 . Again"
+  },
+  {
+   "end_time": 751,
+   "start_time": 744,
+   "text": "four x 7 into two x 3 . Also gives"
+  },
+  {
+   "end_time": 759,
+   "start_time": 748,
+   "text": "eight x 21 . Division is not community for rational"
+  },
+  {
+   "end_time": 767,
+   "start_time": 756,
+   "text": "numbers because two rational numbers when divided by different ways"
+  },
+  {
+   "end_time": 770,
+   "start_time": 764,
+   "text": ", we will not get the same result . For"
+  },
+  {
+   "end_time": 773,
+   "start_time": 767,
+   "text": "example , to buy three divided by four x 7"
+  },
+  {
+   "end_time": 778,
+   "start_time": 770,
+   "text": "gives seven x 6 , But four x 7 divided"
+  },
+  {
+   "end_time": 786,
+   "start_time": 775,
+   "text": "by two x 3 gives six x 7 . Associative"
+  },
+  {
+   "end_time": 795,
+   "start_time": 783,
+   "text": "property addition is associative for rational numbers because for any"
+  },
+  {
+   "end_time": 800,
+   "start_time": 792,
+   "text": "three regional numbers A B and C A plus within"
+  },
+  {
+   "end_time": 804,
+   "start_time": 797,
+   "text": "bracket B plus C and within bracket A plus B"
+  },
+  {
+   "end_time": 812,
+   "start_time": 801,
+   "text": "and plus C gives the same result . For example"
+  },
+  {
+   "end_time": 816,
+   "start_time": 809,
+   "text": "minus two by three plus within bracket three by five"
+  },
+  {
+   "end_time": 820,
+   "start_time": 813,
+   "text": "plus minus five by six gives minus nine by 10"
+  },
+  {
+   "end_time": 823,
+   "start_time": 818,
+   "text": ". On the other hand , if we take within"
+  },
+  {
+   "end_time": 828,
+   "start_time": 820,
+   "text": "bracket minus two by three plus three by five And"
+  },
+  {
+   "end_time": 833,
+   "start_time": 825,
+   "text": "plus -5 x six also gives -9 x 10 ."
+  },
+  {
+   "end_time": 844,
+   "start_time": 833,
+   "text": "Subtraction is not a show city for original numbers because"
+  },
+  {
+   "end_time": 848,
+   "start_time": 841,
+   "text": "if three rational numbers are subtracted from each other by"
+  },
+  {
+   "end_time": 852,
+   "start_time": 845,
+   "text": "different ways then we will not get the same result"
+  },
+  {
+   "end_time": 859,
+   "start_time": 853,
+   "text": ". For example two x 3 - within Bracket four"
+  },
+  {
+   "end_time": 863,
+   "start_time": 856,
+   "text": "x 5 -1 x two gives 11 x 30 ."
+  },
+  {
+   "end_time": 869,
+   "start_time": 861,
+   "text": "But Within Bracket two x 3 -4 x 5 -1"
+  },
+  {
+   "end_time": 878,
+   "start_time": 866,
+   "text": "x two gives -19 x 30 . Multiplication is associative"
+  },
+  {
+   "end_time": 885,
+   "start_time": 875,
+   "text": "for rational numbers , That means for three rational numbers"
+  },
+  {
+   "end_time": 889,
+   "start_time": 882,
+   "text": "A . BC . A . Into within brackets C"
+  },
+  {
+   "end_time": 894,
+   "start_time": 886,
+   "text": "into B is equal to within bracket A into B"
+  },
+  {
+   "end_time": 901,
+   "start_time": 891,
+   "text": "and into C . Division is not associative for rational"
+  },
+  {
+   "end_time": 906,
+   "start_time": 898,
+   "text": "numbers . Look at the example here , we are"
+  },
+  {
+   "end_time": 910,
+   "start_time": 903,
+   "text": "not getting the same result on dividing three rational numbers"
+  },
+  {
+   "end_time": 919,
+   "start_time": 907,
+   "text": "by different ways . zero is called the identity for"
+  },
+  {
+   "end_time": 924,
+   "start_time": 916,
+   "text": "the addition of rational number . Because if we add"
+  },
+  {
+   "end_time": 927,
+   "start_time": 921,
+   "text": "zero with any rational number we will get the same"
+  },
+  {
+   "end_time": 934,
+   "start_time": 924,
+   "text": "rational number . Look at the example , one is"
+  },
+  {
+   "end_time": 941,
+   "start_time": 931,
+   "text": "the multiplication identity for rational numbers because if we multiply"
+  },
+  {
+   "end_time": 944,
+   "start_time": 938,
+   "text": "any rational number with one we will get the same"
+  },
+  {
+   "end_time": 951,
+   "start_time": 941,
+   "text": "number . Look at the examples , three x 7"
+  },
+  {
+   "end_time": 958,
+   "start_time": 948,
+   "text": "into one is equal to three x 7 . Distributive"
+  },
+  {
+   "end_time": 963,
+   "start_time": 955,
+   "text": "Itty of multiplication over addition and subtraction for rational numbers"
+  },
+  {
+   "end_time": 970,
+   "start_time": 964,
+   "text": "for any three rational numbers A . B . C"
+  },
+  {
+   "end_time": 974,
+   "start_time": 967,
+   "text": ". We can right A . Into within bracket B"
+  },
+  {
+   "end_time": 979,
+   "start_time": 971,
+   "text": "plus C is equal to a B plus and A"
+  },
+  {
+   "end_time": 983,
+   "start_time": 976,
+   "text": "into within bracket b minus C is equal to a"
+  },
+  {
+   "end_time": 992,
+   "start_time": 980,
+   "text": "B minus a C . For example , we will"
+  },
+  {
+   "end_time": 996,
+   "start_time": 989,
+   "text": "find out the solution of the problem . Within brackets"
+  },
+  {
+   "end_time": 999,
+   "start_time": 993,
+   "text": "seven by five into minus three by 12 plus ."
+  },
+  {
+   "end_time": 1002,
+   "start_time": 996,
+   "text": "Within brackets seven by five into five by 12 ."
+  },
+  {
+   "end_time": 1007,
+   "start_time": 1000,
+   "text": "Here by using distributive itty we can take seven x"
+  },
+  {
+   "end_time": 1012,
+   "start_time": 1004,
+   "text": "5 as common . Now we can write seven by"
+  },
+  {
+   "end_time": 1016,
+   "start_time": 1009,
+   "text": "five . Into within brackets minus three by 12 plus"
+  },
+  {
+   "end_time": 1018,
+   "start_time": 1013,
+   "text": "five by 12 . This is equal to seven by"
+  },
+  {
+   "end_time": 1023,
+   "start_time": 1015,
+   "text": "five into within brackets minus three plus five by 12"
+  },
+  {
+   "end_time": 1028,
+   "start_time": 1021,
+   "text": ". Therefore we can write seven by five into two"
+  },
+  {
+   "end_time": 1031,
+   "start_time": 1025,
+   "text": "by 12 , which is equal to 14 by 60"
+  },
+  {
+   "end_time": 1035,
+   "start_time": 1028,
+   "text": "is equal to seven by 30 . This is the"
+  },
+  {
+   "end_time": 1041,
+   "start_time": 1032,
+   "text": "final solution for the problem . Look at the table"
+  },
+  {
+   "end_time": 1045,
+   "start_time": 1039,
+   "text": "from the above conclusion , we will try to fill"
+  },
+  {
+   "end_time": 1048,
+   "start_time": 1042,
+   "text": "up the blanks of the table . We know that"
+  },
+  {
+   "end_time": 1054,
+   "start_time": 1046,
+   "text": "rational numbers are closed under multiplication hands . We have"
+  },
+  {
+   "end_time": 1060,
+   "start_time": 1051,
+   "text": "to write yes . In first blank space . Similarly"
+  },
+  {
+   "end_time": 1066,
+   "start_time": 1057,
+   "text": "integers are closed under addition and multiplication . So in"
+  },
+  {
+   "end_time": 1070,
+   "start_time": 1063,
+   "text": "second line both blank spaces are filled up by Yes"
+  },
+  {
+   "end_time": 1076,
+   "start_time": 1069,
+   "text": ". Again , whole numbers are closed under addition but"
+  },
+  {
+   "end_time": 1081,
+   "start_time": 1073,
+   "text": "not closed under subtraction and division . So in third"
+  },
+  {
+   "end_time": 1084,
+   "start_time": 1078,
+   "text": "line . First blank space is filled up by years"
+  },
+  {
+   "end_time": 1088,
+   "start_time": 1081,
+   "text": "and other two blank spaces are filled up by no"
+  },
+  {
+   "end_time": 1096,
+   "start_time": 1089,
+   "text": ", since the natural numbers are closed under addition and"
+  },
+  {
+   "end_time": 1101,
+   "start_time": 1093,
+   "text": "multiplication and not closed under division . Hence , in"
+  },
+  {
+   "end_time": 1103,
+   "start_time": 1098,
+   "text": "the 4th line , we have to put years in"
+  },
+  {
+   "end_time": 1106,
+   "start_time": 1100,
+   "text": "the first two and no in the last one ."
+  }
+ ],
+ "Transcribe_Text": "NA",
+ "videotocdata": [
+  {
+   "summary": "That means if two natural numbers add alternately, then we get same natural numbers.\nSimilarly, if we add 9, 11 and 20, then we get 40, which is also a natural number.\nThat means if we write 1000 then it is a natural number.\n",
+   "Title": "That means if",
+   "image": null,
+   "time": "216"
+  },
+  {
+   "summary": "That means if we subtract one natural number from other natural number, then we always do not get natural number.\nSimilarly, natural numbers do not possess the communicative and associative properties with respect or subtraction natural numbers, pauses closer property, communicative property and associative property with respect to multiplication.\n",
+   "Title": "That means if",
+   "image": null,
+   "time": "437"
+  },
+  {
+   "summary": "For example if we multiply two by five, wait three by seven we will get six by 35 which is also original number, rational numbers are not closed under division because although we get rational number on division of two rational numbers but any rational number divided by zero is not defined.\n",
+   "Title": "For example if",
+   "image": null,
+   "time": "654"
+  },
+  {
+   "summary": "For example two x 3 within Bracket four x 5 -1 x two gives 11 x 30.\nOn the other hand, if we take within bracket minus two by three plus three by five And plus -5 x six also gives -9 x 10.\nFor example, if we add two x 5 with five x 7 we get 39 x 35.\n",
+   "Title": "For example two",
+   "image": null,
+   "time": "875"
+  },
+  {
+   "summary": "This is equal to seven by five into within brackets minus three plus five by 12.\nInto within bracket B plus C is equal to a B plus and A into within bracket b minus C is equal to a B minus a C.\nDistributive Itty of multiplication over addition and subtraction for rational numbers for any three rational numbers A.\n",
+   "Title": "This is equal",
+   "image": null,
+   "time": "1098"
+  }
+ ]
+}
